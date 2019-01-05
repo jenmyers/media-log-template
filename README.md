@@ -41,4 +41,4 @@ I've built in classes you can use to style each list and list item to match your
 
 ## Reference
 
-You can see the media log template in action at any of the logs linked at [jenmyers.net/log/](https://jenmyers.net/log/). And if you have any questions, reach out at [hello@jenmyers.net](hello@jenmyers.net).
+You can see the media log template in action at any of the logs linked at [jenmyers.net/log/](https://jenmyers.net/log/). And if you have any questions, reach out at [hello@jenmyers.net](mailto:hello@jenmyers.net).
