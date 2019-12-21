@@ -12,8 +12,11 @@ At the top of the template is a key that describes the type of media and the cor
 
 - Book (B)
 - Film (F)
+- Short Film (SF)
 - Television series (T)
 - Podcast series (P)
+- Screenplay (S)
+- Comic book/graphic novel (C)
 - Theater performance (TH)
 - Music performance (M)
 
