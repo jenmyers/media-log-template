@@ -49,5 +49,4 @@ You can see the media log template in action at any of the logs linked at [jenmy
 ## Directory
 
 Other media logs:
-
-
+[Adrienne Domingus](https://adriennedomingus.com/log)
