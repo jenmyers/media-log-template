@@ -51,3 +51,4 @@ You can see the media log template in action at any of the logs linked at [jenmy
 Other media logs:
 
 - [Adrienne Domingus](https://adriennedomingus.com/log)
+- [Timothy Miller](https://timothymiller.dev/media-log/2020/)
